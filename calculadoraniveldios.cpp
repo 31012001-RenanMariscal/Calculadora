@@ -43,7 +43,7 @@ int main() {
     if (valido)
         printf("El resultado es %f\n", resultado);
     else
-        printf("Operacion invalida\n")
+        printf("Operacion invalida\n");
 
     return 0;
 }
